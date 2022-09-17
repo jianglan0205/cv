@@ -1,0 +1,3 @@
+#图的id或其他选择器 {
+            display: none;
+        }

@@ -1,0 +1,15 @@
+14
+31C:\Users\25045\Desktop\cv\.idea132998548984184856 1
+30C:\Users\25045\Desktop\cv\dist132998544870468575 1
+29C:\Users\25045\Desktop\cv\src132998544865752273 1
+40C:\Users\25045\Desktop\cv\src\index.html132998544865752273 0
+37C:\Users\25045\Desktop\cv\src\main.js132823733206502110 0
+52C:\Users\25045\Desktop\cv\dist\index.bd78eeec.js.map132823736960438662 0
+48C:\Users\25045\Desktop\cv\dist\index.bd78eeec.js132823736960398784 0
+52C:\Users\25045\Desktop\cv\dist\index.de158e3a.js.map132998536884173917 0
+45C:\Users\25045\Desktop\cv\.idea\workspace.xml132998548984174995 0
+48C:\Users\25045\Desktop\cv\dist\index.de158e3a.js132998536884114072 0
+41C:\Users\25045\Desktop\cv\dist\index.html132998544870458342 0
+42C:\Users\25045\Desktop\cv\.idea\.gitignore132998534778209219 0
+38C:\Users\25045\Desktop\cv\.idea\cv.iml132998534774929301 0
+43C:\Users\25045\Desktop\cv\.idea\modules.xml132998534775058958 0
